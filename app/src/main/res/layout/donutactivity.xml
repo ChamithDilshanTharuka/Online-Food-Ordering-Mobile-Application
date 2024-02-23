@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <!-- Donut Section -->
+    <ScrollView
+        android:id="@+id/donutScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="56dp"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <!-- Donut Content -->
+        <LinearLayout
+            android:id="@+id/donutLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Donut Header -->
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="182dp">
+
+                <TextView
+                    android:id="@+id/donutTextViewHeader"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="76dp"
+                    android:layout_marginTop="16dp"
+                    android:layout_marginEnd="100dp"
+                    android:fontFamily="sans-serif-black"
+                    android:text="Donut Dreamland"
+                    android:textSize="35dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.408"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <EditText
+                    android:id="@+id/donutEditTextSearch"
+                    android:layout_width="318dp"
+                    android:layout_height="58dp"
+                    android:layout_marginStart="56dp"
+                    android:layout_marginTop="24dp"
+                    android:background="@drawable/search_bar"
+                    android:drawableStart="@android:drawable/ic_search_category_default"
+                    android:ems="10"
+                    android:hint="Find Your Donut"
+                    android:inputType="text"
+                    android:paddingStart="10dp"
+                    android:textColor="#04010B"
+                    android:textStyle="italic"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@+id/donutTextViewHeader"
+                    app:layout_constraintVertical_bias="0.01" />
+            </androidx.constraintlayout.widget.ConstraintLayout>
+
+            <!-- Donut Items -->
+            <!-- Donut Item 1 -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewDonut1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:elevation="4dp">
+
+                <!-- Content for the first donut -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Donut Image -->
+                    <ImageView
+                        android:id="@+id/imageViewDonut1"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/donut1" />
+
+                    <!-- Donut Details -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="8dp">
+
+                        <!-- Donut Name -->
+                        <TextView
+                            android:id="@+id/textViewDonutName1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Donut Delight"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+
+                        <!-- Donut Description -->
+                        <TextView
+                            android:id="@+id/textViewDonutDescription1"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Classic donut with a delightful twist."
+                            android:textSize="18dp" />
+
+                        <!-- Donut Price -->
+                        <TextView
+                            android:id="@+id/textViewDonutPrice1"
+                            android:layout_width="95dp"
+                            android:layout_height="wrap_content"
+                            android:text="$2.99"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Donut Item 2 -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewDonut2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_marginTop="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:elevation="4dp">
+
+                <!-- Content for the second donut -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Donut Image -->
+                    <ImageView
+                        android:id="@+id/imageViewDonut2"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/donut2" />
+
+                    <!-- Donut Details -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="8dp">
+
+                        <!-- Donut Name -->
+                        <TextView
+                            android:id="@+id/textViewDonutName2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Chocolate Bliss"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+
+                        <!-- Donut Description -->
+                        <TextView
+                            android:id="@+id/textViewDonutDescription2"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Decadent chocolate donut with a rich flavor."
+                            android:textSize="18dp" />
+
+                        <!-- Donut Price -->
+                        <TextView
+                            android:id="@+id/textViewDonutPrice2"
+                            android:layout_width="95dp"
+                            android:layout_height="wrap_content"
+                            android:text="$3.49"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Donut Item 3 -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewDonut3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_marginTop="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:elevation="4dp">
+
+                <!-- Content for the third donut -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Donut Image -->
+                    <ImageView
+                        android:id="@+id/imageViewDonut3"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/donut3" />
+
+                    <!-- Donut Details -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="8dp">
+
+                        <!-- Donut Name -->
+                        <TextView
+                            android:id="@+id/textViewDonutName3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Strawberry Delight"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+
+                        <!-- Donut Description -->
+                        <TextView
+                            android:id="@+id/textViewDonutDescription3"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Delicious strawberry-flavored donut with a fruity twist."
+                            android:textSize="18dp" />
+
+                        <!-- Donut Price -->
+                        <TextView
+                            android:id="@+id/textViewDonutPrice3"
+                            android:layout_width="95dp"
+                            android:layout_height="wrap_content"
+                            android:text="$4.99"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+
+            <!-- Donut Item 4 -->
+            <androidx.cardview.widget.CardView
+                android:id="@+id/cardViewDonut4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="8dp"
+                android:layout_marginTop="16dp"
+                android:clickable="true"
+                android:focusable="true"
+                android:foreground="?android:attr/selectableItemBackground"
+                android:elevation="4dp">
+
+                <!-- Content for the fourth donut -->
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+
+                    <!-- Donut Image -->
+                    <ImageView
+                        android:id="@+id/imageViewDonut4"
+                        android:layout_width="150dp"
+                        android:layout_height="150dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/donut4" />
+
+                    <!-- Donut Details -->
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical"
+                        android:padding="8dp">
+
+                        <!-- Donut Name -->
+                        <TextView
+                            android:id="@+id/textViewDonutName4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Caramel Crunch"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+
+                        <!-- Donut Description -->
+                        <TextView
+                            android:id="@+id/textViewDonutDescription4"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:text="Donut with a crunchy caramel topping for a delightful experience."
+                            android:textSize="18dp" />
+
+                        <!-- Donut Price -->
+                        <TextView
+                            android:id="@+id/textViewDonutPrice4"
+                            android:layout_width="95dp"
+                            android:layout_height="wrap_content"
+                            android:text="$3.79"
+                            android:textSize="25dp"
+                            android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+            </androidx.cardview.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="409dp"
+        android:layout_height="98dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <com.google.android.material.bottomappbar.BottomAppBar
+            android:id="@+id/app_bar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:backgroundTint="#f6f6f6"
+            app:fabCradleMargin="8dp"
+            app:fabCradleRoundedCornerRadius="50dp"
+            app:fabCradleVerticalOffset="6dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:id="@+id/homebtn"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imgView2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/baseline_home_24" />
+
+                    <TextView
+                        android:id="@+id/txtView11"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Home"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="12dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/profilebtn"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imgView3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/baseline_account_circle_24" />
+
+                    <TextView
+                        android:id="@+id/txtView12"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Profile"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="12dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/suppbtn"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imgView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/baseline_contact_support_24" />
+
+                    <TextView
+                        android:id="@+id/txtView15"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Support"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="12dp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/logoutbtn"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="0.2"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:id="@+id/imgView16"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        app:srcCompat="@drawable/baseline_logout_24" />
+
+                    <TextView
+                        android:id="@+id/txtView16"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Log Out"
+                        android:textAlignment="center"
+                        android:textColor="@color/black"
+                        android:textSize="12dp" />
+                </LinearLayout>
+            </LinearLayout>
+        </com.google.android.material.bottomappbar.BottomAppBar>
+
+        <com.google.android.material.floatingactionbutton.FloatingActionButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#ff5e08"
+            android:elevation="3dp"
+            android:src="@drawable/baseline_shopping_cart_24"
+            app:backgroundTint="#ff5e08"
+            app:layout_anchor="@id/app_bar">
+
+
+        </com.google.android.material.floatingactionbutton.FloatingActionButton>
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
+

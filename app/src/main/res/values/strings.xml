@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FoodApp</string>
+    <string name="food_house">Food House</string>
+    <string name="sign_up">Sign up</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Sign_up">Sign up</string>
+    <string name="already_an_user_login">Already an user? Login</string>
+    <string name="_1">1</string>
+    <string name="_10_99">$10.99</string>
+    <string name="pizza_name">Pizza Name</string>
+    <string name="description_about_the_pizza_goes_here_it_can_be_a_long_text">Description about the pizza goes here. It can be a long text.</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="deluxe_pizza">Deluxe Pizza</string>
+    <string name="a_delicious_combination_of_toppings">A delicious combination of toppings.</string>
+    <string name="price">price</string>
+    <string name="support">Support</string>
+</resources>

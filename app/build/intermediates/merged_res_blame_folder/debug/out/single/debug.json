@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_hot2.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\hot2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_pizzaicon.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\pizzaicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_lock_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_lock_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_margpizza.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\margpizza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_burger4.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\burger4.png"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-35:/layout_activity_admin.xml.flat",
+        "source": "com.example.foodapp-main-37:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_donut3.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\donut3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_hot4.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\hot4.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_donutactivity.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\donutactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_person_pin_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_person_pin_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_donut2.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\donut2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_pizzaactivity.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\pizzaactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_cartpage.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_cartpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_hot1.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\hot1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_cat_2.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\cat_2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_adminback.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\adminback.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_vegpizzaimg.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\vegpizzaimg.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_burger1.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\burger1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_donut4.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\donut4.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_donut1.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\donut1.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_logout_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_logout_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_contact_support_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_contact_support_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_search_bar.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\search_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_cat_3.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\cat_3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_account_circle_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_food_bottom_navigation.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\food_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\menu_logout.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\menu\\logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_burgerdashboard.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\burgerdashboard.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_checkout.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_checkout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_minus.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_shopping_cart_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_shopping_cart_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_pizzaimg.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\pizzaimg.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_plus.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\plus.png"
+    },
+    {
+        "merged": "com.example.foodapp-merged_res-35:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.example.foodapp-main-37:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\menu_bottom_nav.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\menu\\bottom_nav.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_page1back.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\page1back.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_burger2.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\burger2.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_itempage.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_itempage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_burgeractivity.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\burgeractivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_choose_role.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_choose_role.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_signupbackground.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\signupbackground.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_signupbackground2.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\signupbackground2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_foodhotdogicon.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\foodhotdogicon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_imgbanner.jpg.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\imgbanner.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_hot3.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\hot3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_home_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_home_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_login_activty.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_login_activty.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_settings_applications_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_settings_applications_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_pepperpizzaimg.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\pepperpizzaimg.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_burgericon.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\burgericon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_person_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_person_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_burger3.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\burger3.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_donuticon.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\donuticon.png"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_cart_item.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_cart_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_loginborder.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\loginborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_hotdogactivity.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\hotdogactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_baseline_email_24.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\baseline_email_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_banner.xml.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\banner.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-merged_res-35:\\drawable_cat_1.png.flat",
+        "source": "C:\\Users\\Lap.lk\\.gradle\\daemon\\8.0\\com.example.foodapp-main-37:\\drawable\\cat_1.png"
+    }
+]

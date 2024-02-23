@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Checkout Title -->
+    <TextView
+        android:id="@+id/textViewCheckoutTitle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:gravity="center"
+        android:text="Checkout"
+        android:textSize="24sp"
+        android:textStyle="bold"/>
+
+    <!-- Container for Shipping Address -->
+    <LinearLayout
+        android:id="@+id/shippingAddressContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/textViewCheckoutTitle"
+        android:layout_marginTop="16dp"
+        android:padding="16dp"
+        android:background="@android:color/background_light"
+        android:elevation="4dp">
+
+        <!-- Shipping Address -->
+        <EditText
+            android:id="@+id/textViewShippingAddress"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:hint="Ex: Shipping Address: 123 Main St, City"
+            android:textStyle="bold"
+            android:textSize="16sp"/>
+
+        <!-- Edit Button -->
+
+        <Button
+            android:id="@+id/buttonEditAddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Edit"
+            android:textSize="14sp"/>
+    </LinearLayout>
+
+    <!-- Container for Payment Method -->
+    <LinearLayout
+        android:id="@+id/paymentMethodContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/shippingAddressContainer"
+        android:layout_marginTop="16dp"
+        android:padding="16dp"
+        android:background="@android:color/background_light"
+        android:elevation="4dp">
+
+        <!-- Payment Method Options -->
+        <RadioGroup
+            android:id="@+id/radioGroupPayment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/radioButtonPaypal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="Paypal"/>
+
+            <RadioButton
+                android:id="@+id/radioButtonVisa"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="Visa Card"/>
+
+        </RadioGroup>
+    </LinearLayout>
+
+    <!-- Container for Shipping Cost and Total -->
+    <LinearLayout
+        android:id="@+id/shippingTotalContainer"
+        android:layout_width="match_parent"
+        android:layout_height="210dp"
+        android:layout_below="@id/paymentMethodContainer"
+        android:layout_marginTop="72dp"
+        android:background="@android:color/background_light"
+        android:elevation="4dp"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <!-- Shipping Cost -->
+
+        <TextView
+            android:id="@+id/textViewShippingCost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Shipping Cost:"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <TextView
+            android:id="@+id/ShippingCost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="$5.00"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/textViewTotal"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:layout_marginTop="50dp"
+            android:layout_weight="1"
+            android:text="Total: $25.00"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <!-- Place Order Button -->
+    <Button
+        android:id="@+id/buttonPlaceOrder"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/shippingTotalContainer"
+        android:layout_marginTop="129dp"
+        android:text="Place Order"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+</RelativeLayout>
